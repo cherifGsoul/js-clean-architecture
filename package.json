@@ -1,7 +1,7 @@
 {
-  "name": "js-clean-architecture",
+  "name": "cleanr",
   "version": "1.0.0",
-  "description": "",
+  "description": "Implementation of Robert C Martin's (Uncle Bob) clean architecture",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
